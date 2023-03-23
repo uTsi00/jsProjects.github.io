@@ -20,7 +20,7 @@ close.addEventListener('click', hide);
 
 // Extra
 const textChange = () => {
-    view.innerHTML = "Hello, Sawna!";
+    view.innerHTML = "Hello, My peeps!";
 }
 
 const textReturn = () => {
